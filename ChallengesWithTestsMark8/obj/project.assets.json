@@ -8,27 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Khang\\.nuget\\packages\\": {}
+    "/Users/khanghuynh/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khang\\Desktop\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "/Users/khanghuynh/Desktop/repos/WeeklyChallengesOne/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "C:\\Users\\Khang\\Desktop\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-      "packagesPath": "C:\\Users\\Khang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khang\\Desktop\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\obj\\",
+      "projectPath": "/Users/khanghuynh/Desktop/repos/WeeklyChallengesOne/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+      "packagesPath": "/Users/khanghuynh/.nuget/packages/",
+      "outputPath": "/Users/khanghuynh/Desktop/repos/WeeklyChallengesOne/ChallengesWithTestsMark8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Khang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/khanghuynh/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -41,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/khanghuynh/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
       }
     }
   }
